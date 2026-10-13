@@ -1,0 +1,16 @@
+# Distribute patches, never complete game ROMs.
+*.[nN][eE][sS]
+
+# Local emulator saves, states and recordings.
+*.sav
+*.srm
+*.state
+*.state.*
+*.fcs
+*.fc?
+*.nst
+*.fm2
+
+# OS metadata.
+.DS_Store
+Thumbs.db
